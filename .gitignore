@@ -1,0 +1,12 @@
+# Datos crudos grandes
+/noticias_chile_2023_2025*.csv
+
+# Artefactos generados por la parte 1
+/warehouse/
+
+# Artefactos temporales locales
+/mapreduce_output/
+
+# Caches locales
+__pycache__/
+*.py[cod]
